@@ -1,6 +1,10 @@
 # 🧑‍💻 GitHub Collaboration Guide
 
+<<<<<<< HEAD
 This repository is a collaborative Git and GitHub learning guide.
+=======
+This is a practical Git and GitHub teamwork guide for students.
+>>>>>>> a231483 (fix(readme): update intro text (my version))
 Read it top to bottom once, then use it as a reference while you work.
 
 The actual tasks you need to complete are in `TASKS.md`.
@@ -181,11 +185,7 @@ chore: move images into /assets folder
 When two people edited the same part of the same file, Git will pause and show you this inside the file:
 
 ```
-<<<<<<< HEAD
-your version of the line
-=======
-your teammate's version of the line
->>>>>>> origin/main
+This is a practical Git and GitHub teamwork guide for students.
 ```
 
 1. Open the conflicted file in your editor.

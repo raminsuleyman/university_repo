@@ -198,7 +198,8 @@ your teammate's version of the line
 5. Save the file.
 6. Run `git add filename.md`
 7. Run `git rebase --continue`
-8. Run `git push --force-with-lease`
+8. If Git shows another conflict, repeat steps 1–7 until the rebase finishes.
+9. Run `git push --force-with-lease`
 
 > If something goes wrong at any point, run `git rebase --abort` to undo the rebase and go back to where you started.
 

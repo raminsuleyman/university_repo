@@ -224,3 +224,16 @@ git rebase origin/main
 # Something went wrong
 git rebase --abort
 ```
+## What We Built
+
+This project provides a complete GitHub collaboration guide for teams working together on software projects.
+
+### Files
+
+- `README.md` — Contains the GitHub collaboration guide, Git workflow instructions, branching strategy, pull request process, and conflict resolution steps.
+- `TASKS.md` — Contains the project tasks and assignments that contributors complete throughout the project.
+
+### Contributors
+
+- [@raminsuleyman](https://github.com/raminsuleyman)
+- [@alipiriyev17](https://github.com/alipiriyev17)
